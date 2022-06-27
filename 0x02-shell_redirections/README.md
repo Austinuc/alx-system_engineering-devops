@@ -16,5 +16,6 @@ The following files are all scripts
 4-lastlines | Displays the last 10 lines of /etc/passwd
 5-firstlines | Displays the first 10 lines of /etc/passwd
 6-third_line | Displays the third line of the file iacta
-7-file | Create file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
+7-file | Create file named exactly `\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)` containing the text Best School ending by a new line.
 8-cwd_state | Write the result of the command ls -la into the file ls_cwd_content. If the file ls_cwd_content already exists, it should be overwritten. If the file ls_cwd_content does not exist, create it.
+9-duplicate_last_line | Duplicates the last line of the file iacta
