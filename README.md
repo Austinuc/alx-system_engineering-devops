@@ -1,4 +1,4 @@
-#System Engineering & DevOps Projects
+# System Engineering & DevOps Projects
 ...
 ## 0x00. Shell Basics
 ### Project Objectives:
