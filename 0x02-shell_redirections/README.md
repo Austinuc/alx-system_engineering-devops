@@ -34,3 +34,4 @@ The following files are all scripts
 22-users_and_homes | Displays all users and their home directories, sorted by users and based on /etc/passwd
 100-empty_casks | Finds empty files and directories in the current dir and all sub dirs, printing only names
 101-gifs | Lists all files with a .gif extension in the current dir and sub dirs
+102-acrostic | Decodes acrostics that use the first letter of each line
