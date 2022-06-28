@@ -32,3 +32,4 @@ The following files are all scripts
 20-hiago | Removes all letters 'c' and 'C' from input
 21-reverse | Reverses strings
 22-users_and_homes | Displays all users and their home directories, sorted by users and based on /etc/passwd
+100-empty_casks | Finds empty files and directories in the current dir and all sub dirs, printing only names
