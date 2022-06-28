@@ -29,3 +29,4 @@ The following files are all scripts
 17-hidethisword | Displays all the lines in the file /etc/passwd that do not contain the pattern "bin"
 18-letteronly | Displays all lines of the file /etc/ssh/ssh_config starting with a letter and is not case sensitive
 19-AZ | Replace all characters A and c from input to Z and e respectively.
+20-hiago | Removes all letters 'c' and 'C' from input
