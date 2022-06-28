@@ -1,2 +1,2 @@
 #!/bin/bash
- | cut -d ':' -f 1,6 | sort
+cut -d ':' -f 1,6 /etc/passwd | sort #cuts out the contents at positn 1 and 6 respectively using ':' as the delimiter
