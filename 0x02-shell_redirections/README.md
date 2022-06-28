@@ -23,3 +23,4 @@ The following files are all scripts
 11-directories | Counts the number of directories and subdirectories in the current dir
 12-newest_files | Displays 10 newest files in the current dir
 13-unique | Takes a list of words as input and prints only words that appear exactly once
+14-findthatword | Displays lines containing the pattern 'root' from the file /etc/passwd
