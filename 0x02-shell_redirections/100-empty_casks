@@ -1,4 +1,4 @@
 #!/bin/bash
-find . -empty | rev | cut -d '/' -f1 | rev 
+find . -empty | rev | cut -d '/' -f 1 | rev 
 
-# find . -empty displys lines with leading './' therefore the str reversal and cutting and reversal again, in other to re './' and display only the name
+# find . -empty displys lines with leading './' therefore the str reversal and # cutting and reversal again, in other to re './' and display only the name
