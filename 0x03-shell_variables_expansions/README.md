@@ -1,0 +1,12 @@
+# 0x03. Shell, init files, Variables and Expansions
+Project done during Full Stack Software Engineering at ALX-Africa. It aims to learn how to handle shell initialization files, aliases, variables and various command expansions
+
+## Technologies
+* Tested on Ubuntu 20.04 LTS
+
+# Files
+The following files are all scripts
+
+| Filename | Description|
+--- | ---
+0-alias | Creates a script that creates an alias
