@@ -13,3 +13,4 @@ The following files are all scripts
 1-hello_you | Prints `hello user`, where user is the current Linux user.
 2-path | Adds /action to the PATH variable
 3-paths | Counts the numbers of dirs in the PATH variable by splitting the string returned with a delimiter
+4-global_variables | Lists environment variables
