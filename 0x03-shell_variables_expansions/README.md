@@ -24,3 +24,4 @@ The following files are all scripts
 12-combinations | Prints all possible combinations of lower case letters from 'a' to 'z' omitting 'oo' and sorted alphabetically
 13-print_float | Prints a given number to two decimal places
 100-decimal_to_hexadecimal | Converts a number from base 10 to base 16
+101-rot13 | Encodes and Decodes text using the rot13 encryption (26\2=13)
