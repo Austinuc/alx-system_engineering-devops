@@ -15,3 +15,4 @@ The following files are all scripts
 3-paths | Counts the numbers of dirs in the PATH variable by splitting the string returned with a delimiter
 4-global_variables | Lists environment variables
 5-local_variables | List all local variables, environmet variables and functions
+6-create_local_variable | Creates a local variable of Name: BEST and Value: School
