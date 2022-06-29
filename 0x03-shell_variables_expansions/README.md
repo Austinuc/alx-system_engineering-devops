@@ -14,3 +14,4 @@ The following files are all scripts
 2-path | Adds /action to the PATH variable
 3-paths | Counts the numbers of dirs in the PATH variable by splitting the string returned with a delimiter
 4-global_variables | Lists environment variables
+5-local_variables | List all local variables, environmet variables and functions
