@@ -20,3 +20,4 @@ The following files are all scripts
 8-true_knowledge | Script for arithmetic expansion and paramater expansion combined
 9-divide_and_rule | Prints arithmetic division of POWER var by DIVIDE var
 10-love_exponent_breath | Prints arithmetic operation of powers, by raising BREATH var to the power of LOVE var
+11-binary_to_decimal | Converting from base 2 to base 10 with bash script
