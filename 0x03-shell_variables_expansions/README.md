@@ -22,3 +22,4 @@ The following files are all scripts
 10-love_exponent_breath | Prints arithmetic operation of powers, by raising BREATH var to the power of LOVE var
 11-binary_to_decimal | Converting from base 2 to base 10 with bash script
 12-combinations | Prints all possible combinations of lower case letters from 'a' to 'z' omitting 'oo' and sorted alphabetically
+13-print_float | Prints a given number to two decimal places
