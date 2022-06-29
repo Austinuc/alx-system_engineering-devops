@@ -23,3 +23,4 @@ The following files are all scripts
 11-binary_to_decimal | Converting from base 2 to base 10 with bash script
 12-combinations | Prints all possible combinations of lower case letters from 'a' to 'z' omitting 'oo' and sorted alphabetically
 13-print_float | Prints a given number to two decimal places
+100-decimal_to_hexadecimal | Converts a number from base 10 to base 16
