@@ -16,3 +16,4 @@ The following files are all scripts
 4-global_variables | Lists environment variables
 5-local_variables | List all local variables, environmet variables and functions
 6-create_local_variable | Creates a local variable of Name: BEST and Value: School
+7-create_global_variable | Creates global variable with NAME: BEST and VALUE: School
