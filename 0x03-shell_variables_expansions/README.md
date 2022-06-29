@@ -17,3 +17,4 @@ The following files are all scripts
 5-local_variables | List all local variables, environmet variables and functions
 6-create_local_variable | Creates a local variable of Name: BEST and Value: School
 7-create_global_variable | Creates global variable with NAME: BEST and VALUE: School
+8-true_knowledge | Script for arithmetic expansion and paramater expansion combined
