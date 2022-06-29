@@ -25,3 +25,4 @@ The following files are all scripts
 13-print_float | Prints a given number to two decimal places
 100-decimal_to_hexadecimal | Converts a number from base 10 to base 16
 101-rot13 | Encodes and Decodes text using the rot13 encryption (26\2=13)
+102-odd | Prints every odd line from an input starting with the first line
